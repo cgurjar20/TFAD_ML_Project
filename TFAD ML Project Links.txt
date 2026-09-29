@@ -1,0 +1,1 @@
+TFAD - ML ProjectTFAD GitHub Repo - https://github.com/DAMO-DI-ML/CIKM22-TFADMSL and SMAP Dataset - https://www.kaggle.com/datasets/patrickfleith/nasa-anomaly-detection-dataset-smap-mslNAB Dataset - https://www.kaggle.com/datasets/boltzmannbrain/nab
